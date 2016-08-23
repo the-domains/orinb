@@ -1,0 +1,14 @@
+layout_spectrum: 0.7568787061609328
+typography_spectrum: 0.41467189276590943
+color:
+  brandStrength: 0.48462646710686386
+  lightness: 0.7971821858081967
+  saturation: 0.2918878924101591
+  rhythmicContrast: 0.912657022010535
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: OrinB
